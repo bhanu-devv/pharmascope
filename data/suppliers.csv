@@ -1,0 +1,51 @@
+supplier_id,supplier_name,region,target_lead_days,quality_rating
+1,Supplier 01 — North America,North America,10,89
+2,Supplier 02 — Europe,Europe,21,91
+3,Supplier 03 — Asia-Pacific,Asia-Pacific,11,93
+4,Supplier 04 — Latin America,Latin America,21,89
+5,Supplier 05 — North America,North America,18,82
+6,Supplier 06 — Europe,Europe,13,83
+7,Supplier 07 — Asia-Pacific,Asia-Pacific,13,89
+8,Supplier 08 — Latin America,Latin America,23,87
+9,Supplier 09 — North America,North America,9,86
+10,Supplier 10 — Europe,Europe,22,98
+11,Supplier 11 — Asia-Pacific,Asia-Pacific,8,96
+12,Supplier 12 — Latin America,Latin America,14,85
+13,Supplier 13 — North America,North America,16,81
+14,Supplier 14 — Europe,Europe,23,99
+15,Supplier 15 — Asia-Pacific,Asia-Pacific,10,82
+16,Supplier 16 — Latin America,Latin America,18,86
+17,Supplier 17 — North America,North America,9,98
+18,Supplier 18 — Europe,Europe,22,91
+19,Supplier 19 — Asia-Pacific,Asia-Pacific,14,100
+20,Supplier 20 — Latin America,Latin America,20,83
+21,Supplier 21 — North America,North America,8,92
+22,Supplier 22 — Europe,Europe,11,80
+23,Supplier 23 — Asia-Pacific,Asia-Pacific,19,85
+24,Supplier 24 — Latin America,Latin America,14,85
+25,Supplier 25 — North America,North America,21,89
+26,Supplier 26 — Europe,Europe,13,80
+27,Supplier 27 — Asia-Pacific,Asia-Pacific,9,84
+28,Supplier 28 — Latin America,Latin America,13,91
+29,Supplier 29 — North America,North America,19,90
+30,Supplier 30 — Europe,Europe,7,91
+31,Supplier 31 — Asia-Pacific,Asia-Pacific,12,99
+32,Supplier 32 — Latin America,Latin America,14,84
+33,Supplier 33 — North America,North America,20,93
+34,Supplier 34 — Europe,Europe,19,96
+35,Supplier 35 — Asia-Pacific,Asia-Pacific,21,84
+36,Supplier 36 — Latin America,Latin America,20,99
+37,Supplier 37 — North America,North America,20,85
+38,Supplier 38 — Europe,Europe,18,100
+39,Supplier 39 — Asia-Pacific,Asia-Pacific,16,97
+40,Supplier 40 — Latin America,Latin America,19,90
+41,Supplier 41 — North America,North America,15,95
+42,Supplier 42 — Europe,Europe,23,93
+43,Supplier 43 — Asia-Pacific,Asia-Pacific,15,86
+44,Supplier 44 — Latin America,Latin America,11,91
+45,Supplier 45 — North America,North America,18,93
+46,Supplier 46 — Europe,Europe,23,90
+47,Supplier 47 — Asia-Pacific,Asia-Pacific,10,90
+48,Supplier 48 — Latin America,Latin America,19,84
+49,Supplier 49 — North America,North America,7,91
+50,Supplier 50 — Europe,Europe,8,87

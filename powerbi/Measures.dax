@@ -1,0 +1,25 @@
+-- Create these measures in Power BI Desktop after importing the CSVs.
+-- Model: suppliers[supplier_id] 1:* purchase_orders[supplier_id];
+-- materials[material_id] 1:* purchase_orders[material_id].
+-- Budget filter grain is month + category; use a shared Calendar/Category dimension
+-- or a composite month-category bridge before mixing budget with order filters.
+
+Total Spend = SUM(purchase_orders[actual_spend])
+Standard Spend = SUM(purchase_orders[standard_spend])
+Purchase Price Variance = [Total Spend] - [Standard Spend]
+Purchase Orders = DISTINCTCOUNT(purchase_orders[po_id])
+Late Purchase Orders = SUM(purchase_orders[late_flag])
+On Time Delivery % = DIVIDE([Purchase Orders] - [Late Purchase Orders], [Purchase Orders])
+Invoice Exceptions = SUM(purchase_orders[invoice_exception])
+Invoice Exception % = DIVIDE([Invoice Exceptions], [Purchase Orders])
+Budget = SUM(budgets[budget_amount])
+Budget Variance = [Total Spend] - [Budget]
+Budget Variance % = DIVIDE([Budget Variance], [Budget])
+Supplier Price Variance % = DIVIDE([Purchase Price Variance], [Standard Spend])
+
+-- Create a disconnected scenario table via Modeling > New table:
+Price Shock = GENERATESERIES(0, 0.20, 0.01)
+-- Measures (after adding Price Shock table):
+Selected Price Shock = SELECTEDVALUE('Price Shock'[Value], 0.05)
+Scenario Incremental Cost = [Total Spend] * [Selected Price Shock]
+Scenario Total Spend = [Total Spend] + [Scenario Incremental Cost]

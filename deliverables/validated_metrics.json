@@ -1,0 +1,10 @@
+{
+  "orders": 20000,
+  "supplier_count": 50,
+  "material_count": 500,
+  "spend": 533669433.23,
+  "budget": 531285884.15,
+  "on_time_pct": 65.38,
+  "invoice_exceptions": 1685,
+  "price_variance": 17481695.68
+}

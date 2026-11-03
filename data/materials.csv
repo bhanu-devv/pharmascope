@@ -1,0 +1,501 @@
+material_id,material_name,category,standard_unit_price,reorder_point
+1,Material 001,API,42.79,1441
+2,Material 002,Excipient,109.47,766
+3,Material 003,Packaging,8.53,813
+4,Material 004,Lab Supplies,71.8,413
+5,Material 005,Consumables,101.87,820
+6,Material 006,API,143.28,1487
+7,Material 007,Excipient,133.1,584
+8,Material 008,Packaging,119.3,533
+9,Material 009,Lab Supplies,151.79,693
+10,Material 010,Consumables,94.8,819
+11,Material 011,API,19.4,634
+12,Material 012,Excipient,49.32,630
+13,Material 013,Packaging,24.02,1029
+14,Material 014,Lab Supplies,63.73,1198
+15,Material 015,Consumables,127.11,1327
+16,Material 016,API,58.22,1039
+17,Material 017,Excipient,64.59,315
+18,Material 018,Packaging,129.28,1248
+19,Material 019,Lab Supplies,121.17,687
+20,Material 020,Consumables,103.23,1027
+21,Material 021,API,10.21,243
+22,Material 022,Excipient,42.61,647
+23,Material 023,Packaging,85.86,865
+24,Material 024,Lab Supplies,34.87,828
+25,Material 025,Consumables,52.82,746
+26,Material 026,API,119.68,966
+27,Material 027,Excipient,32.29,1014
+28,Material 028,Packaging,76.13,1469
+29,Material 029,Lab Supplies,135.98,827
+30,Material 030,Consumables,72.32,1129
+31,Material 031,API,69.1,569
+32,Material 032,Excipient,21.27,219
+33,Material 033,Packaging,98.09,608
+34,Material 034,Lab Supplies,65.65,746
+35,Material 035,Consumables,97.0,361
+36,Material 036,API,117.02,1340
+37,Material 037,Excipient,130.16,927
+38,Material 038,Packaging,91.02,634
+39,Material 039,Lab Supplies,58.21,1316
+40,Material 040,Consumables,75.99,696
+41,Material 041,API,109.25,1146
+42,Material 042,Excipient,18.54,823
+43,Material 043,Packaging,85.2,602
+44,Material 044,Lab Supplies,147.99,1127
+45,Material 045,Consumables,159.17,1446
+46,Material 046,API,23.98,439
+47,Material 047,Excipient,54.18,1069
+48,Material 048,Packaging,38.75,254
+49,Material 049,Lab Supplies,150.2,455
+50,Material 050,Consumables,52.58,1472
+51,Material 051,API,69.99,685
+52,Material 052,Excipient,8.13,1250
+53,Material 053,Packaging,123.28,1370
+54,Material 054,Lab Supplies,12.68,624
+55,Material 055,Consumables,90.35,674
+56,Material 056,API,90.13,1054
+57,Material 057,Excipient,30.19,580
+58,Material 058,Packaging,80.1,1144
+59,Material 059,Lab Supplies,89.25,264
+60,Material 060,Consumables,123.25,1225
+61,Material 061,API,111.21,1404
+62,Material 062,Excipient,119.79,474
+63,Material 063,Packaging,102.98,760
+64,Material 064,Lab Supplies,10.2,1469
+65,Material 065,Consumables,90.74,335
+66,Material 066,API,26.82,201
+67,Material 067,Excipient,100.06,1081
+68,Material 068,Packaging,20.39,455
+69,Material 069,Lab Supplies,14.83,447
+70,Material 070,Consumables,153.85,1347
+71,Material 071,API,13.52,242
+72,Material 072,Excipient,50.32,203
+73,Material 073,Packaging,95.37,1143
+74,Material 074,Lab Supplies,134.03,403
+75,Material 075,Consumables,86.73,1454
+76,Material 076,API,24.17,555
+77,Material 077,Excipient,73.55,1186
+78,Material 078,Packaging,121.83,455
+79,Material 079,Lab Supplies,102.13,1402
+80,Material 080,Consumables,29.04,400
+81,Material 081,API,19.94,357
+82,Material 082,Excipient,76.07,1214
+83,Material 083,Packaging,79.04,373
+84,Material 084,Lab Supplies,80.98,1006
+85,Material 085,Consumables,130.78,804
+86,Material 086,API,150.14,742
+87,Material 087,Excipient,118.8,665
+88,Material 088,Packaging,104.53,665
+89,Material 089,Lab Supplies,79.33,357
+90,Material 090,Consumables,77.16,1447
+91,Material 091,API,27.99,1171
+92,Material 092,Excipient,137.22,964
+93,Material 093,Packaging,75.37,708
+94,Material 094,Lab Supplies,114.39,780
+95,Material 095,Consumables,104.06,884
+96,Material 096,API,21.1,1321
+97,Material 097,Excipient,9.07,370
+98,Material 098,Packaging,48.43,301
+99,Material 099,Lab Supplies,86.07,930
+100,Material 100,Consumables,96.52,272
+101,Material 101,API,123.43,907
+102,Material 102,Excipient,13.22,985
+103,Material 103,Packaging,109.08,668
+104,Material 104,Lab Supplies,13.35,1011
+105,Material 105,Consumables,141.21,710
+106,Material 106,API,86.55,687
+107,Material 107,Excipient,124.44,591
+108,Material 108,Packaging,38.78,970
+109,Material 109,Lab Supplies,158.65,641
+110,Material 110,Consumables,132.9,781
+111,Material 111,API,142.71,1346
+112,Material 112,Excipient,70.58,424
+113,Material 113,Packaging,14.71,296
+114,Material 114,Lab Supplies,152.46,363
+115,Material 115,Consumables,105.64,1270
+116,Material 116,API,108.34,804
+117,Material 117,Excipient,48.0,201
+118,Material 118,Packaging,145.46,1342
+119,Material 119,Lab Supplies,65.15,1485
+120,Material 120,Consumables,69.75,513
+121,Material 121,API,114.79,1114
+122,Material 122,Excipient,69.52,703
+123,Material 123,Packaging,47.2,1289
+124,Material 124,Lab Supplies,88.09,866
+125,Material 125,Consumables,39.51,608
+126,Material 126,API,21.51,1114
+127,Material 127,Excipient,24.15,1159
+128,Material 128,Packaging,69.9,286
+129,Material 129,Lab Supplies,113.78,248
+130,Material 130,Consumables,129.17,330
+131,Material 131,API,29.04,1263
+132,Material 132,Excipient,32.45,358
+133,Material 133,Packaging,14.26,311
+134,Material 134,Lab Supplies,67.72,1444
+135,Material 135,Consumables,19.22,876
+136,Material 136,API,105.97,1338
+137,Material 137,Excipient,93.14,1448
+138,Material 138,Packaging,117.84,559
+139,Material 139,Lab Supplies,147.99,1249
+140,Material 140,Consumables,60.34,363
+141,Material 141,API,52.7,1035
+142,Material 142,Excipient,151.95,1483
+143,Material 143,Packaging,129.48,273
+144,Material 144,Lab Supplies,32.14,1474
+145,Material 145,Consumables,43.69,1371
+146,Material 146,API,45.65,463
+147,Material 147,Excipient,47.18,211
+148,Material 148,Packaging,70.32,1476
+149,Material 149,Lab Supplies,52.96,1201
+150,Material 150,Consumables,129.85,432
+151,Material 151,API,132.5,366
+152,Material 152,Excipient,31.24,856
+153,Material 153,Packaging,135.79,791
+154,Material 154,Lab Supplies,98.38,570
+155,Material 155,Consumables,98.72,1223
+156,Material 156,API,107.46,1313
+157,Material 157,Excipient,35.57,1085
+158,Material 158,Packaging,69.71,689
+159,Material 159,Lab Supplies,34.61,886
+160,Material 160,Consumables,147.3,1119
+161,Material 161,API,80.28,1035
+162,Material 162,Excipient,151.79,247
+163,Material 163,Packaging,73.45,941
+164,Material 164,Lab Supplies,12.12,226
+165,Material 165,Consumables,136.06,1282
+166,Material 166,API,108.09,1334
+167,Material 167,Excipient,91.11,246
+168,Material 168,Packaging,147.62,1338
+169,Material 169,Lab Supplies,37.2,404
+170,Material 170,Consumables,115.63,988
+171,Material 171,API,91.99,1271
+172,Material 172,Excipient,46.96,996
+173,Material 173,Packaging,158.02,250
+174,Material 174,Lab Supplies,104.75,1496
+175,Material 175,Consumables,141.47,983
+176,Material 176,API,56.0,998
+177,Material 177,Excipient,100.79,639
+178,Material 178,Packaging,71.31,736
+179,Material 179,Lab Supplies,11.07,216
+180,Material 180,Consumables,53.23,397
+181,Material 181,API,155.03,330
+182,Material 182,Excipient,115.06,1279
+183,Material 183,Packaging,31.2,1006
+184,Material 184,Lab Supplies,145.87,773
+185,Material 185,Consumables,80.74,629
+186,Material 186,API,54.72,1131
+187,Material 187,Excipient,62.15,616
+188,Material 188,Packaging,77.09,781
+189,Material 189,Lab Supplies,147.65,798
+190,Material 190,Consumables,144.98,205
+191,Material 191,API,112.43,892
+192,Material 192,Excipient,50.85,690
+193,Material 193,Packaging,119.01,341
+194,Material 194,Lab Supplies,124.89,544
+195,Material 195,Consumables,103.83,445
+196,Material 196,API,26.25,1417
+197,Material 197,Excipient,146.52,277
+198,Material 198,Packaging,33.77,397
+199,Material 199,Lab Supplies,135.35,910
+200,Material 200,Consumables,45.37,657
+201,Material 201,API,87.09,1350
+202,Material 202,Excipient,77.39,1028
+203,Material 203,Packaging,133.21,760
+204,Material 204,Lab Supplies,11.9,900
+205,Material 205,Consumables,38.85,1285
+206,Material 206,API,140.39,1386
+207,Material 207,Excipient,148.29,1320
+208,Material 208,Packaging,139.99,749
+209,Material 209,Lab Supplies,31.87,1425
+210,Material 210,Consumables,141.56,690
+211,Material 211,API,57.9,1323
+212,Material 212,Excipient,50.01,849
+213,Material 213,Packaging,147.35,598
+214,Material 214,Lab Supplies,55.69,247
+215,Material 215,Consumables,46.95,768
+216,Material 216,API,97.08,1006
+217,Material 217,Excipient,28.74,955
+218,Material 218,Packaging,52.31,1285
+219,Material 219,Lab Supplies,89.62,1210
+220,Material 220,Consumables,139.38,1173
+221,Material 221,API,44.0,1195
+222,Material 222,Excipient,117.38,1347
+223,Material 223,Packaging,34.81,776
+224,Material 224,Lab Supplies,113.12,1031
+225,Material 225,Consumables,92.0,1273
+226,Material 226,API,62.28,209
+227,Material 227,Excipient,135.98,730
+228,Material 228,Packaging,69.17,1350
+229,Material 229,Lab Supplies,19.17,844
+230,Material 230,Consumables,39.62,222
+231,Material 231,API,112.54,241
+232,Material 232,Excipient,142.12,1058
+233,Material 233,Packaging,148.22,266
+234,Material 234,Lab Supplies,85.92,379
+235,Material 235,Consumables,29.59,1287
+236,Material 236,API,41.75,949
+237,Material 237,Excipient,56.39,1267
+238,Material 238,Packaging,103.8,1000
+239,Material 239,Lab Supplies,61.94,1469
+240,Material 240,Consumables,125.98,1070
+241,Material 241,API,65.77,568
+242,Material 242,Excipient,9.8,656
+243,Material 243,Packaging,114.99,717
+244,Material 244,Lab Supplies,89.94,1155
+245,Material 245,Consumables,150.49,1378
+246,Material 246,API,146.43,1231
+247,Material 247,Excipient,94.88,1063
+248,Material 248,Packaging,152.46,1178
+249,Material 249,Lab Supplies,35.85,1361
+250,Material 250,Consumables,105.7,1013
+251,Material 251,API,143.19,1140
+252,Material 252,Excipient,70.19,374
+253,Material 253,Packaging,89.53,1345
+254,Material 254,Lab Supplies,73.17,1266
+255,Material 255,Consumables,51.6,1082
+256,Material 256,API,50.94,1074
+257,Material 257,Excipient,148.99,1108
+258,Material 258,Packaging,155.28,1080
+259,Material 259,Lab Supplies,133.35,1222
+260,Material 260,Consumables,15.79,252
+261,Material 261,API,155.71,479
+262,Material 262,Excipient,46.43,558
+263,Material 263,Packaging,67.5,1338
+264,Material 264,Lab Supplies,127.59,818
+265,Material 265,Consumables,85.13,1486
+266,Material 266,API,83.34,656
+267,Material 267,Excipient,32.8,1050
+268,Material 268,Packaging,77.52,1173
+269,Material 269,Lab Supplies,120.31,818
+270,Material 270,Consumables,121.67,1443
+271,Material 271,API,62.44,1259
+272,Material 272,Excipient,157.11,278
+273,Material 273,Packaging,135.04,411
+274,Material 274,Lab Supplies,157.89,813
+275,Material 275,Consumables,99.03,1056
+276,Material 276,API,42.24,1303
+277,Material 277,Excipient,81.0,567
+278,Material 278,Packaging,112.67,1470
+279,Material 279,Lab Supplies,115.16,1359
+280,Material 280,Consumables,29.34,1228
+281,Material 281,API,156.65,1149
+282,Material 282,Excipient,82.71,928
+283,Material 283,Packaging,158.07,1213
+284,Material 284,Lab Supplies,121.25,1040
+285,Material 285,Consumables,73.47,1234
+286,Material 286,API,59.13,277
+287,Material 287,Excipient,34.63,627
+288,Material 288,Packaging,47.09,597
+289,Material 289,Lab Supplies,109.45,1065
+290,Material 290,Consumables,75.73,402
+291,Material 291,API,26.51,922
+292,Material 292,Excipient,96.64,811
+293,Material 293,Packaging,57.06,679
+294,Material 294,Lab Supplies,132.47,578
+295,Material 295,Consumables,67.61,753
+296,Material 296,API,125.14,407
+297,Material 297,Excipient,72.94,327
+298,Material 298,Packaging,30.97,527
+299,Material 299,Lab Supplies,64.09,675
+300,Material 300,Consumables,49.77,694
+301,Material 301,API,93.1,932
+302,Material 302,Excipient,78.19,1195
+303,Material 303,Packaging,19.0,1345
+304,Material 304,Lab Supplies,46.99,1469
+305,Material 305,Consumables,137.37,1143
+306,Material 306,API,61.54,1493
+307,Material 307,Excipient,73.83,722
+308,Material 308,Packaging,28.47,512
+309,Material 309,Lab Supplies,63.08,738
+310,Material 310,Consumables,102.6,1172
+311,Material 311,API,22.48,866
+312,Material 312,Excipient,136.36,876
+313,Material 313,Packaging,83.44,1304
+314,Material 314,Lab Supplies,152.07,344
+315,Material 315,Consumables,63.87,1111
+316,Material 316,API,150.32,397
+317,Material 317,Excipient,74.38,679
+318,Material 318,Packaging,27.36,708
+319,Material 319,Lab Supplies,60.88,1103
+320,Material 320,Consumables,26.56,534
+321,Material 321,API,24.24,350
+322,Material 322,Excipient,8.1,844
+323,Material 323,Packaging,136.91,1110
+324,Material 324,Lab Supplies,67.25,479
+325,Material 325,Consumables,100.43,1319
+326,Material 326,API,9.38,538
+327,Material 327,Excipient,120.03,1347
+328,Material 328,Packaging,91.34,946
+329,Material 329,Lab Supplies,97.83,414
+330,Material 330,Consumables,128.3,1062
+331,Material 331,API,11.84,968
+332,Material 332,Excipient,69.23,1002
+333,Material 333,Packaging,100.64,1187
+334,Material 334,Lab Supplies,158.31,1036
+335,Material 335,Consumables,139.68,1244
+336,Material 336,API,47.51,866
+337,Material 337,Excipient,110.68,1124
+338,Material 338,Packaging,102.76,662
+339,Material 339,Lab Supplies,100.83,362
+340,Material 340,Consumables,147.54,1156
+341,Material 341,API,60.51,530
+342,Material 342,Excipient,46.19,632
+343,Material 343,Packaging,152.33,1350
+344,Material 344,Lab Supplies,86.17,1000
+345,Material 345,Consumables,137.94,969
+346,Material 346,API,50.81,453
+347,Material 347,Excipient,147.13,814
+348,Material 348,Packaging,78.82,479
+349,Material 349,Lab Supplies,30.5,1232
+350,Material 350,Consumables,97.47,532
+351,Material 351,API,28.71,706
+352,Material 352,Excipient,83.98,1402
+353,Material 353,Packaging,26.81,868
+354,Material 354,Lab Supplies,23.01,266
+355,Material 355,Consumables,144.33,1078
+356,Material 356,API,154.07,908
+357,Material 357,Excipient,141.8,924
+358,Material 358,Packaging,65.35,719
+359,Material 359,Lab Supplies,156.87,729
+360,Material 360,Consumables,99.77,1473
+361,Material 361,API,14.96,1111
+362,Material 362,Excipient,19.36,475
+363,Material 363,Packaging,85.07,547
+364,Material 364,Lab Supplies,35.83,1475
+365,Material 365,Consumables,14.09,761
+366,Material 366,API,72.21,1444
+367,Material 367,Excipient,97.16,394
+368,Material 368,Packaging,20.9,1012
+369,Material 369,Lab Supplies,155.98,841
+370,Material 370,Consumables,157.77,351
+371,Material 371,API,68.02,617
+372,Material 372,Excipient,36.84,539
+373,Material 373,Packaging,112.88,208
+374,Material 374,Lab Supplies,123.36,307
+375,Material 375,Consumables,54.73,1182
+376,Material 376,API,145.08,440
+377,Material 377,Excipient,62.33,805
+378,Material 378,Packaging,87.37,1411
+379,Material 379,Lab Supplies,102.39,992
+380,Material 380,Consumables,34.39,1321
+381,Material 381,API,64.44,914
+382,Material 382,Excipient,71.95,527
+383,Material 383,Packaging,140.25,282
+384,Material 384,Lab Supplies,77.39,273
+385,Material 385,Consumables,130.2,545
+386,Material 386,API,35.15,245
+387,Material 387,Excipient,36.35,421
+388,Material 388,Packaging,155.2,457
+389,Material 389,Lab Supplies,70.7,359
+390,Material 390,Consumables,14.82,331
+391,Material 391,API,67.01,983
+392,Material 392,Excipient,97.68,1062
+393,Material 393,Packaging,28.23,1235
+394,Material 394,Lab Supplies,126.36,345
+395,Material 395,Consumables,43.39,716
+396,Material 396,API,42.98,639
+397,Material 397,Excipient,18.02,1159
+398,Material 398,Packaging,72.54,726
+399,Material 399,Lab Supplies,17.8,1449
+400,Material 400,Consumables,72.44,1110
+401,Material 401,API,51.01,475
+402,Material 402,Excipient,157.36,1044
+403,Material 403,Packaging,85.49,1213
+404,Material 404,Lab Supplies,37.02,393
+405,Material 405,Consumables,55.37,307
+406,Material 406,API,54.74,226
+407,Material 407,Excipient,30.86,487
+408,Material 408,Packaging,107.07,490
+409,Material 409,Lab Supplies,68.72,815
+410,Material 410,Consumables,18.99,683
+411,Material 411,API,115.27,529
+412,Material 412,Excipient,15.2,361
+413,Material 413,Packaging,49.82,998
+414,Material 414,Lab Supplies,82.9,453
+415,Material 415,Consumables,25.85,1396
+416,Material 416,API,23.81,255
+417,Material 417,Excipient,69.19,610
+418,Material 418,Packaging,55.74,439
+419,Material 419,Lab Supplies,135.62,656
+420,Material 420,Consumables,137.22,777
+421,Material 421,API,102.63,744
+422,Material 422,Excipient,112.63,217
+423,Material 423,Packaging,57.98,575
+424,Material 424,Lab Supplies,8.65,1369
+425,Material 425,Consumables,35.74,1111
+426,Material 426,API,101.8,1368
+427,Material 427,Excipient,46.54,408
+428,Material 428,Packaging,47.17,533
+429,Material 429,Lab Supplies,58.89,835
+430,Material 430,Consumables,66.17,705
+431,Material 431,API,127.54,1250
+432,Material 432,Excipient,130.25,782
+433,Material 433,Packaging,119.75,365
+434,Material 434,Lab Supplies,113.38,1380
+435,Material 435,Consumables,93.07,1011
+436,Material 436,API,37.61,405
+437,Material 437,Excipient,14.61,864
+438,Material 438,Packaging,24.22,1256
+439,Material 439,Lab Supplies,158.33,1106
+440,Material 440,Consumables,156.29,447
+441,Material 441,API,19.88,695
+442,Material 442,Excipient,77.74,1385
+443,Material 443,Packaging,36.87,409
+444,Material 444,Lab Supplies,42.54,578
+445,Material 445,Consumables,102.09,1130
+446,Material 446,API,66.61,1252
+447,Material 447,Excipient,137.42,961
+448,Material 448,Packaging,137.83,1197
+449,Material 449,Lab Supplies,116.62,746
+450,Material 450,Consumables,45.2,1253
+451,Material 451,API,114.33,320
+452,Material 452,Excipient,22.92,1036
+453,Material 453,Packaging,136.77,575
+454,Material 454,Lab Supplies,121.97,674
+455,Material 455,Consumables,102.37,1274
+456,Material 456,API,51.37,831
+457,Material 457,Excipient,35.52,1217
+458,Material 458,Packaging,138.17,942
+459,Material 459,Lab Supplies,103.23,516
+460,Material 460,Consumables,115.98,1480
+461,Material 461,API,55.95,355
+462,Material 462,Excipient,67.48,1452
+463,Material 463,Packaging,144.69,651
+464,Material 464,Lab Supplies,46.71,281
+465,Material 465,Consumables,83.68,765
+466,Material 466,API,106.64,536
+467,Material 467,Excipient,157.81,1486
+468,Material 468,Packaging,115.7,220
+469,Material 469,Lab Supplies,52.61,1422
+470,Material 470,Consumables,57.16,1047
+471,Material 471,API,99.93,1097
+472,Material 472,Excipient,69.1,276
+473,Material 473,Packaging,26.68,893
+474,Material 474,Lab Supplies,149.33,1127
+475,Material 475,Consumables,94.31,1408
+476,Material 476,API,106.86,202
+477,Material 477,Excipient,129.34,1017
+478,Material 478,Packaging,97.31,476
+479,Material 479,Lab Supplies,31.85,1205
+480,Material 480,Consumables,64.6,1050
+481,Material 481,API,22.02,1213
+482,Material 482,Excipient,62.65,1131
+483,Material 483,Packaging,94.06,1289
+484,Material 484,Lab Supplies,78.29,668
+485,Material 485,Consumables,128.02,260
+486,Material 486,API,32.75,379
+487,Material 487,Excipient,21.67,539
+488,Material 488,Packaging,147.85,1159
+489,Material 489,Lab Supplies,67.82,1324
+490,Material 490,Consumables,66.47,578
+491,Material 491,API,152.81,1422
+492,Material 492,Excipient,158.28,1092
+493,Material 493,Packaging,55.56,215
+494,Material 494,Lab Supplies,116.46,1259
+495,Material 495,Consumables,156.59,751
+496,Material 496,API,155.65,438
+497,Material 497,Excipient,116.59,424
+498,Material 498,Packaging,62.43,650
+499,Material 499,Lab Supplies,87.83,312
+500,Material 500,Consumables,142.49,241
