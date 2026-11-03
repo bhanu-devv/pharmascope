@@ -27,4 +27,4 @@ These values reconcile to `deliverables/validated_metrics.json`. Budgets are der
 
 ## Limits
 
-No verified savings, regulated pharmaceutical workflow, SAP ECC connection, consumption/COGS ledger, independent budget or forecast. No stakeholder collaboration is claimed. Real decisions require validated operational data and finance/procurement review.
+No verified savings, regulated pharmaceutical workflow, SAP ECC connection, consumption/COGS ledger, independent budget or forecast. Real decisions require validated operational data and finance/procurement review.

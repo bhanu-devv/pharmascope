@@ -58,7 +58,7 @@ sqlite3 data/pharma_procurement.sqlite < sql/analysis_queries.sql
 - [Financial calculations and assumptions](docs/FINANCIAL_CALCULATIONS.md)
 - [Setup, troubleshooting and testing](docs/SETUP_AND_TESTING.md)
 - [Executive case study](docs/EXECUTIVE_CASE_STUDY.md)
-- [Resume bullets](docs/RESUME_BULLETS.md) and [interview walkthrough](docs/INTERVIEW_GUIDE.md)
+- [Project highlights](docs/RESUME_BULLETS.md) and [technical overview](docs/TECHNICAL_OVERVIEW.md)
 - [Power BI assembly and limitations](powerbi/BUILD_GUIDE.md)
 - [Roadmap](docs/ROADMAP.md) and [validation report](docs/VALIDATION.md)
 
